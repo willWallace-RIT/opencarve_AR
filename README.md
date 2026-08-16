@@ -16,4 +16,4 @@ A framework for manual subtractive carving guided by augmented reality. This sys
 2. Place raw stock scans in `data/raw_stock_scans/`.
 3. Place target 3D models in `data/target_stls/`.
 4. Run `scripts/run_pipeline.py` to initiate the projection alignment.
-5. 
+
